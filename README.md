@@ -14,6 +14,8 @@ Our Resources Hub is your go-to source for essential information and safety meas
 
 In a world where every second counts, CRISIS is your lifeline. Your safety is our priority.
 
+Link to 1.0 : https://github.com/mesonicDEVAJ18/Comprehensive-Resource-and-Incident-Support-Information-System-1.0
+
 ## Overview
 
 **CRISIS** is a platform for crisis management and support, providing real-time announcements, interactive maps, and essential resources to ensure preparedness and safety during emergencies.
